@@ -41,10 +41,10 @@ class Home extends React.Component {
               </h2>
             </Element>
             <p className="section__description">
-              I am a Junior Developer, qualified in with many fields thanks to
-              an educational path with varied courses. I am presently focusing
-              on Web Technologies and JavaScript. We might meet at React meetups
-              if you are based in Paris.
+              I am a Junior Developer, qualified in many fields thanks to an
+              educational path with varied courses. I am presently focusing on
+              Web Technologies and JavaScript. We might meet at React meetups if
+              you are based in Paris.
             </p>
             <a href="" className="section_btn site-btn">
               <i className="fa fa-download" />
