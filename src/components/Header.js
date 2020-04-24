@@ -30,7 +30,7 @@ const Header = () => {
                 <dt>Email:</dt>
                 <dd>
                   <a href="mailto:valentin.lecommandeur@gmail.com">
-                    valentin.lecommandeur@gmail.com
+                    valentin.lecommandeur (at) gmail.com
                   </a>
                 </dd>
                 <dt>Address:</dt>
