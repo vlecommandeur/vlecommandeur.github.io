@@ -51,16 +51,17 @@ class Resume extends React.Component {
               </p>
               <p className="resume-list__block-date">2017 - 2018</p>
               <p>
-                Master 2 ICONE Engineering of Digital Content in Business,
-                double degree with the University of La Rochelle's Data course.
+                Master 2 Information and Communication Technology. Second year
+                of master's degree in cooperation with the Master 2 Data course
+                of the University of La Rochelle
               </p>
             </div>
             <div className="resume-list__block">
               <p className="resume-list__block-title">South Wales University</p>
               <p className="resume-list__block-date">2016 - 2017</p>
               <p>
-                Master's degree in Computer Science. In agreement with the
-                Master 1 ICONE Information Systems Engineering (ISI) of the
+                Master 1 Computing and Information Systems. MSc in Computer
+                Science in cooperation with the Master Data course of the
                 University of La Rochelle
               </p>
             </div>
@@ -100,6 +101,8 @@ class Resume extends React.Component {
               <p className="resume-list__block-date">2015 - 2018</p>
               <p>
                 Several internships in different companies and countries.
+                <br />
+                <br />
                 Development on microcontroller and assembly of a light flash
                 detector with audio warning at the IMaR Technology Gateway
                 Research Centre in Ireland

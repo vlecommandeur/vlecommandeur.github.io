@@ -2,6 +2,8 @@ import React from "react";
 import { Element } from "react-scroll";
 import { Waypoint } from "react-waypoint";
 
+import cv from "../img/cv_en.pdf";
+
 // TODO
 // add link to cv
 class Home extends React.Component {
@@ -46,7 +48,7 @@ class Home extends React.Component {
               Web Technologies and JavaScript. We might meet at React meetups if
               you are based in Paris.
             </p>
-            <a href="" className="section_btn site-btn">
+            <a href={cv} className="section_btn site-btn">
               <i className="fa fa-download" />
                 Download CV
             </a>
